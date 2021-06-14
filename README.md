@@ -1,0 +1,2 @@
+# tips_overflow_scroll
+overflow:scroll;を使用した時に表示されるスクロールバーを非表示にする方法
